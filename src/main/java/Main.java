@@ -1,5 +1,3 @@
-package SelectSort;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
