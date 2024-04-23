@@ -1,2 +1,2 @@
-# Selection-Sort
-This repository contains the code for a selection sort algorithm implementation in Java.
+# Quick sort
+This repository contains the code for a quicksort algorithm implementation in Java.
